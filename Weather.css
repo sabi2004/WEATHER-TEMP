@@ -1,0 +1,26 @@
+body {
+    background-image: url('pic.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+.yellow{
+    font-size: 50px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+li{
+    display: flex;
+    justify-content: space-between;
+}
+p{
+    display: flex;
+    justify-content: center;
+    color:black;
+}
